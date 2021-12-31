@@ -1,0 +1,10 @@
+pylint
+black
+pytest
+numpy
+pandas
+psycopg2
+requests
+uvicorn
+fastapi[all]
+sqlalchemy
