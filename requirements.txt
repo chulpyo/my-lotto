@@ -9,3 +9,4 @@ uvicorn
 fastapi[all]
 sqlalchemy
 click
+pymysql
